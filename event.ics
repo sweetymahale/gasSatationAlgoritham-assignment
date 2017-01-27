@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AddEvent.com v1.6//EN
+BEGIN:VEVENT
+DTSTAMP:20170125T111600Z
+ORGANIZER;CN=Organizer:MAILTO:Organizer e-mail
+STATUS:CONFIRMED
+UID:1485342960@addevent.com
+DTSTART;VALUE=DATE:20171102
+DTEND;VALUE=DATE:20171103
+SUMMARY:Balance Transfer Promo Period is Ending Soon
+DESCRIPTION:To see the status of your balance transfer\, please log in and visit the Balance Transfer pages. Thanks for moving your balance to Discover! Log in here: www.discover.com.\n\nPlease note: This calendar notice was accurate as of the date you initially added it to your calendar. If you changed your payment due date or edited this calendar notice after that\, this entry may no longer be accurate. If you balance transfer has been fully paid off\, this entry may no longer be accurate. Please refer to your Discover card billing statement or log in to your account at www.discover.com to view more details regarding your balance transfer.\n\n---\nIntroducing CalendarX.com. A calendar your audience can follow. \nMore information at https://www.calendarx.com
+X-ALT-DESC;FMTTYPE=text/html:To see the status of your balance transfer, please log in and visit the Balance Transfer pages. Thanks for moving your balance to Discover! Log in here: www.discover.com.<br><br>Please note: This calendar notice was accurate as of the date you initially added it to your calendar. If you changed your payment due date or edited this calendar notice after that, this entry may no longer be accurate. If you balance transfer has been fully paid off, this entry may no longer be accurate. Please refer to your Discover card billing statement or log in to your account at www.discover.com to view more details regarding your balance transfer.<br><br>---<br>Introducing CalendarX.com. A calendar your audience can follow. <br>More information at https://www.calendarx.com
+LOCATION:For details\, visit www.discover.com
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
